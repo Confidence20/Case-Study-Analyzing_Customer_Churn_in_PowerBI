@@ -23,7 +23,7 @@ This visual was created using the **"customer reason"** column and **"Number of 
 From the chart, of the list of reasons customers churned, "competitors made better offers" was the most reason. This means that on the records, This means that Databel had competitors who could attract its customers with offers that seemed better that Databel's.
 ![image](https://github.com/Confidence20/Case-Study-Analyzing_Customer_Churn_in_PowerBI/assets/55492261/4bee52ea-c46b-4b6c-a02a-ecd63a32392a)
 
-##Explore Data
+## Explore Data
 #### Deeper investigation on churn categories
 The **"churn reason"** column was grouped in the **"churn category"** column.
 ![image](https://github.com/Confidence20/Case-Study-Analyzing_Customer_Churn_in_PowerBI/assets/55492261/d1d83ac1-242c-45fd-89b1-d740e7e98f4a)
