@@ -45,4 +45,22 @@ From the visual below, the data shows that group category 6 has the lowest churn
 ![image](https://github.com/Confidence20/Case-Study-Analyzing_Customer_Churn_in_PowerBI/assets/55492261/25a5cd4f-e6c7-47d1-80af-306d90a756b0)
 
 ##
-###
+### International Calls
+The analysis requirement given by **Databel** included a request to analyze the international activity of customers and its realtionship to churn. they were curious about the behaviour of customers who called internationally and if paying for international plan influenced their loyality.
+Databel wants to focus on the budget on a state-by-state basis for the promotion of the international plan. From this page, the state with the highest churn rate for customers who have "month-to-month" contract types.
+![image](https://github.com/Confidence20/Case-Study-Analyzing_Customer_Churn_in_PowerBI/assets/55492261/0e9a7f81-3056-437d-86aa-a293c9b83583)
+
+#
+
+## Overview
+It is very important to see the reasons why customers churn, and their respective percentage of total customers. 
+![image](https://github.com/Confidence20/Case-Study-Analyzing_Customer_Churn_in_PowerBI/assets/55492261/a601d42f-150f-4b46-87b8-fa0035df8726)
+#
+
+## Age brackets & Groups
+I created a second page in the report that portrays insights about the age buckets and groups. I used the visual below to answer the question of **What is the churn rate of customers who are not in a good plan, that belong to age group 50 and have account <= 12 months**
+                    ***The answer is 50.67%***
+
+#
+## International plan
+The Final report covered the insights about the data and any relevant charges.
