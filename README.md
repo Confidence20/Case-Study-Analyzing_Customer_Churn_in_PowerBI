@@ -62,5 +62,7 @@ I created a second page in the report that portrays insights about the age bucke
                     ***The answer is 50.67%***
 
 #
-## International plan
-The Final report covered the insights about the data and any relevant charges.
+## Overview final Report
+The Final report covered the insights about the data and any relevant charges. From here, Everything significant relating to the investigation was spotted, from **Churn rate** to **Churn Reason** to **Internal calls and plans**. The factors that affected the churn rate investigation was considered and below is the report.
+![image](https://github.com/Confidence20/Case-Study-Analyzing_Customer_Churn_in_PowerBI/assets/55492261/b63b5971-ac8f-4f7d-bc26-ca40843909bf)
+
